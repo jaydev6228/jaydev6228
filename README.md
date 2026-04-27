@@ -3,7 +3,7 @@
 ### Senior iOS Developer | Mobile Architecture | Tsukuba, Japan 🇯🇵
 
 10+ years building high-performance mobile apps for millions of users.  
-Currently leading iOS development at **Rakuten Group** 🛒 and expanding into **Android with Kotlin & Jetpack Compose** 🚀
+Currently working at **Rakuten Group** 🛒 and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 ---
 
