@@ -3,7 +3,7 @@
 ### Senior iOS Developer | Mobile Architecture | Tsukuba, Japan 🇯🇵
 
 10+ years building high-performance mobile apps for millions of users.  
-Currently **spearheading iOS development** at **Rakuten Group** [![Rakuten Kakeibo](https://img.shields.io/badge/Rakuten_Kakeibo-BF0000?style=flat&logo=rakuten&logoColor=white)](https://personal-finance.rakuten.co.jp/)  
+Currently **spearheading iOS development** at **Rakuten Group** 🛒  
 and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 ---
@@ -79,6 +79,54 @@ and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 ---
 
+## 🏅 Certifications & Courses
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/jaydev6228/jaydev6228/blob/master/assets/certificates/aws-cloud-practitioner.jpg" target="_blank">
+        <img
+          src="https://github.com/jaydev6228/jaydev6228/blob/master/assets/certificates/aws-cloud-practitioner.jpg"
+          alt="AWS Cloud Practitioner Course Completion"
+          width="280"
+        />
+      </a>
+      <br/><br/>
+      <strong>AWS Cloud Practitioner</strong>
+      <br/>
+      <sub>Course Completion · Udemy</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/jaydev6228/jaydev6228/blob/master/assets/certificates/aws-ai-practitioner.jpg" target="_blank">
+        <img
+          src="https://github.com/jaydev6228/jaydev6228/blob/master/assets/certificates/aws-ai-practitioner.jpg"
+          alt="AWS AI Practitioner Course Completion"
+          width="280"
+        />
+      </a>
+      <br/><br/>
+      <strong>AWS AI Practitioner</strong>
+      <br/>
+      <sub>Course Completion · Udemy</sub>
+    </td>
+  </tr>
+</table>
+
+| Course | Platform | Status |
+|--------|----------|--------|
+| AWS Cloud Practitioner Essentials | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-✓-brightgreen) |
+| AWS AI Practitioner | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-✓-brightgreen) |
+| JLPT N4 | ![JLPT](https://img.shields.io/badge/JLPT-BC002D?style=flat&logoColor=white) | ![Certified](https://img.shields.io/badge/Certified-✓-brightgreen) |
+| JLPT N3 | ![JLPT](https://img.shields.io/badge/JLPT-BC002D?style=flat&logoColor=white) | ![In Progress](https://img.shields.io/badge/In_Progress-→-orange) |
+
+> 🎯 Currently preparing for official **AWS Cloud Practitioner** and **AWS AI Practitioner** exams
+
+---
+
 ## 💼 Experience Highlights
 
 | Company | Role | Impact |
@@ -102,6 +150,7 @@ and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 - 🤖 **Kotlin** & **Jetpack Compose** — bringing iOS architecture mindset to Android
 - 🧠 **AI-assisted development** — integrating Codex, Claude & MCP servers into daily workflow
+- ☁️ **AWS Cloud & AI** — preparing for official AWS certification exams
 - 🇯🇵 **Japanese JLPT N3** — living and working in Japan since 2020
 
 ---
@@ -120,6 +169,7 @@ and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydevbaloliya/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaydevbaloliya@gmail.com)
+[![Rakuten Kakeibo](https://img.shields.io/badge/Rakuten_Kakeibo-BF0000?style=flat&logo=rakuten&logoColor=white)](https://personal-finance.rakuten.co.jp/)
 
 ---
 
