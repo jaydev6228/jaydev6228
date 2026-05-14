@@ -1,6 +1,6 @@
 # Hi, I'm Jaydev 👋
 
-### Senior iOS Developer | Mobile Architecture | Tsukuba, Japan 🇯🇵
+### Senior iOS Developer | Mobile Architect | Tsukuba, Japan 🇯🇵
 
 10+ years building high-performance mobile apps for millions of users.  
 Currently **spearheading iOS development** at **Rakuten Group** 🛒  
@@ -169,7 +169,6 @@ and expanding into **Android with Kotlin & Jetpack Compose** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydevbaloliya/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaydevbaloliya@gmail.com)
-[![Rakuten Kakeibo](https://img.shields.io/badge/Rakuten_Kakeibo-BF0000?style=flat&logo=rakuten&logoColor=white)](https://personal-finance.rakuten.co.jp/)
 
 ---
 
